@@ -11,9 +11,9 @@
 [submodule "Factoshiny"]
 	path = Factoshiny
 	url = https://github.com/husson/factoshiny
-[submodule "missMDA"]
-	path = missMDA
-	url = https://github.com/husson/missmda
 [submodule "SensoMineR"]
 	path = SensoMineR
 	url = https://github.com/husson/sensominer
+[submodule "missMDA"]
+	path = missMDA
+	url = https://github.com/husson/missmda
